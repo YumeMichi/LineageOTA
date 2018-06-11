@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1525946758,
-      "filename": "lineage-15.1-20180510-UNOFFICIAL-Sultan-onyx",
-      "id": "a27bbbf24ca31ff09a519b04a84e04817c5c6dead14b184e21e61968cccfebd0",
+      "datetime": 1528696027,
+      "filename": "lineage-15.1-20180611-UNOFFICIAL-Sultan-onyx",
+      "id": "baa5f26e0d774bbbbbdae1a2f43408a22154964b01c9596499fc6b8802b226af",
       "romtype": "unofficial",
-      "size": 399334453,
-      "url": "https://github.com/Oreo-onyx/OTA/releases/download/release/lineage-15.1-20180510-UNOFFICIAL-Sultan-onyx.zip",
+      "size": 398872040,
+      "url": "https://github.com/Oreo-onyx/OTA/releases/download/release/lineage-15.1-20180611-UNOFFICIAL-Sultan-onyx.zip",
       "version": "15.1"
     }
   ]
