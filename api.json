@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1531628061,
-      "filename": "lineage-15.1-20180715-UNOFFICIAL-Sultan-onyx",
-      "id": "42a7fb19b6c30a3e13e4b1ef701f3e0cf2780b32dbdfc86ca2c33b8ed6b8c89c",
+      "datetime": 1534925587,
+      "filename": "lineage-15.1-20180822-UNOFFICIAL-Sultan-onyx",
+      "id": "908e99eae90fbaad4609feafbddafbca48d6fe2a990da6faecd7fc3450f02ee2",
       "romtype": "unofficial",
-      "size": 402027413,
-      "url": "https://basketbuild.com/uploads/devs/YumeMichi/lineage/lineage-15.1-20180715-UNOFFICIAL-Sultan-onyx.zip",
+      "size": 399361063,
+      "url": "https://github.com/Oreo-onyx/OTA/releases/download/release/lineage-15.1-20180822-UNOFFICIAL-Sultan-onyx.zip",
       "version": "15.1"
     }
   ]
